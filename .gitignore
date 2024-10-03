@@ -9,3 +9,6 @@ core*
 wandb
 demo/
 backup
+
+# Ignore cache directories
+.*cache
